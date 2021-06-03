@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A soft ansvver to Captain Freeman's passionate book. Wherein the conference at Doulting in Somerset-shire is truly and fully related; baptism of infants vindicated; ministers maintenance by tithes justified; and all the captain's arguments soberly discussed. / By Gracious Francklin, late lecturer at Martins of the Vine-tree, and elsewhere in London; and now pastor of the Church at Doulting. Published according to order.</title>
+            <author>Francklin, Gracious, d. 1691.</author>
+         </titleStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84867</idno><idno type="EEBO-CITATION">99865304</idno>
+  <idno type="VID">117543</idno>
+  <idno type="EEBO-PROQUEST">2240912077</idno>
+  
+            <idno type="STC">Wing F2079</idno>
+            <idno type="STC">Thomason E432_4</idno>
+            <idno type="STC">ESTC R206125</idno>
+            <idno type="PROQUEST">99865304</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865304e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A soft ansvver to Captain Freeman's passionate book. Wherein the conference at Doulting in Somerset-shire is truly and fully related; baptism of infants vindicated; ministers maintenance by tithes justified; and all the captain's arguments soberly discussed. / By Gracious Francklin, late lecturer at Martins of the Vine-tree, and elsewhere in London; and now pastor of the Church at Doulting. Published according to order.</title>
+                  <author>Francklin, Gracious, d. 1691.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Ruth Raworth, in Thames-street, over against Baynard's Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Freeman, Francis.  A brief description of a conference betwixt a nationall Presbyterian and an independent (so called).</note>
+                  <note>Annotation on Thomason copy: "March. 14th"; the 8 in imprint date is crossed out and replaced with "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Freeman, Francis. --  Brief description of a conference betwixt a nationall Presbyterian and an independent (so called) --  Early works to 1800.</term>
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+               <term type="topical_term">Tithes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117543:1"/>
+            <p>A SOFT ANSVVER TO Captain <hi>FREEMAN</hi>'s Passionate BOOK.</p>
+            <p>
+               <hi>Wherein</hi> THE CONFERENCE at <hi>Doulting</hi> in Somerset-shire is truly and fully related;</p>
+            <p>BAPTISM OF INFANTS VINDICATED;</p>
+            <p>Ministers MAINTENANCE by TITHES JUSTIFIED;</p>
+            <p>And all the CAPTAIN's Argu<g ref="char:EOLhyphen"/>ments soberly discussed.</p>
+            <p>By GRACIOUS FRANCKLIN, late Lecturer at <hi>Mar<g ref="char:EOLhyphen"/>tins of the Vine-tree,</hi> and elsewhere in <hi>London;</hi> and now Pastor of the Church at <hi>Doulting.</hi>
+            </p>
+            <p>Published according to Order.</p>
+            <p>LONDON, Printed and sold by <hi>Ruth Raworth,</hi> in Thames-street, over against <hi>Baynard</hi>'s Castle. 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117543:2"/>
+            <pb facs="tcp:117543:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F any of those great lights (or others of equall judgement and abilities) that have written learnedly and largely up<g ref="char:EOLhyphen"/>on this subject shall happen to cast but a glance upon this poor Tract, Let them know, that this Discourse was popular, and in the face of a full Congregation; and therefore it was but necessary to urge such argu<g ref="char:EOLhyphen"/>ments, and use such plain and pertinent expressions as might be most sutable to such capacities. It is but a star-light in comparison of theirs; yet most sutable to the Captain and those of his judgement, who are (as I conceive) in a deep pit, where the lustre of a Star is many times as much and more discernable then the light of the sun. For my part, I look not upon my self, but upon them as our undaunted Champions, who have successefully fought the Lords Battels abroad: and if there be any use of me, it is onely to stand upon my guard, and (with a watchfull eye) to look to the matter of the Church at home, to preserve it in its soundness, til God be pleased to clothe it with a com<g ref="char:EOLhyphen"/>pleat and lovely form. In which I have been industri<g ref="char:EOLhyphen"/>strious, and (I hope) successefull; and to which I should have confined my self even to my last breath,
+<pb facs="tcp:117543:3"/> without the least thought ever to be beheld in print, had I not even <hi>volens nolens</hi> been forced to it, and for the vindication of truth; and occasioned thus; There was about a yeer and a quarter since (as neer as I can remember) a publick Conference about the Baptism of Infants, between one Mr <hi>Browne</hi> and my self. And about the 7. of November last I met with a paper (owned by a Captain) entituled <hi>A brief description of a Conference betwixt a Nationall Presbyterian and an Independent (so called) lately held at Doulting in the Coun<g ref="char:EOLhyphen"/>tie of Somerset, &amp;c.</hi> He meant our Conference. Up<g ref="char:EOLhyphen"/>on the observation wherof I found something (in the Captains conjecture) that concerned M. <hi>Balsome</hi> (who is of age and ability to speak for himself,) and some<g ref="char:EOLhyphen"/>thing that concerned me and my Discourse. I was in<g ref="char:EOLhyphen"/>deed something displeased at the first perusal therof; not that the Captain had set forth the Discourse in print; but that the truth was so clouded, and the trea<g ref="char:EOLhyphen"/>tise published so halting, and so incomposed, and so unlike it self, as at the first delivery. I am loth to say that it was to blind the Reader, and to take his eys &amp; taste off from the pith and kernel of the Controversie; and in stead therof to feed him with husks, or an em<g ref="char:EOLhyphen"/>pty shel: he knows best. And though he hath made mee speak in another language, and that imperfect too, and to father a Discourse that was neither mine, nor like it; yet he affirms that he did it to give satis<g ref="char:EOLhyphen"/>faction. <note place="margin">Title page.</note> Certain I am that many (that have been desirous of truth and convincement by it) have been, and have profest themselves to have been abundantly satisfied with it; and it rested in peace uncontrolled by any; yea, by M. <hi>Brown</hi> himself, or the Captain,
+<pb facs="tcp:117543:3"/> or any else that ever I knew or heard of, till I came to the sight of his paper in print. But it seems the Captain was not, is not, and how he should I know not. And why? hee hath forgotten, not taken, or mistaken the summe of the Discourse, the principall heads, the life of the conference, yea, almost all that should have satisfied him. He hath handled some of it as <hi>Cacus</hi> handled the plundered beasts; hee hath drawn it into his book by the retreat, putting in that with the first which was indeed last; and that which should have been first not at all. And where<g ref="char:EOLhyphen"/>as in the 3, 4, and 5 of my answers, I proposed that to consideration which was (in my apprehension) unanswerable: the Captain is pleased (though I promised to give the cause upon it) to assure the King<g ref="char:EOLhyphen"/>dome in print <hi>pag.</hi> 2. that there was no answer at all to any purpose: Its well he adds <hi>on either side.</hi> Hee puts as great an ecclipse (in that point) upon Master <hi>Browne</hi>'s Discourse as upon mine. It is as much as can be expected from an adversary, and more then I lookt for from any of that side. Hee hath added much of his own to the Discourse: It may be hee conceives that to the purpose which is of his own coine. For a more full satisfaction therefore of the Reader, (and without the least witting or know<g ref="char:EOLhyphen"/>ing prejudice to Master <hi>Brown,</hi> and without any bitter taunts or reviling terms) I shall (by the help of God) in the first place give to those that desire to peruse it, a faithfull account of our Conference. 2. I shall (according to my slender strength) try the force of the Captains Arguments against the Baptism of Infants, that it may appear whether his additions to
+<pb facs="tcp:117543:4"/> our Conference be any more to the purpose then what he was pleased to judge of a part of ours. 3. I shall propose a few useful Quaeres about other points in his Book, wherein my judgement and practice is alike condemned with others, and branded with the odious name of <hi>Antichristian.</hi> If that which I have spoken or written be of God, it will stand, it shall stand. And whether it be of God, I shall willingly appeal to his judgement and conscience that shall peruse it seriously, and weight the particulars with an impartiall, and not prejudiced scale. And let the Reader that yet remains unconvinced, add but his prayers to him that is able to inform us all, I shall have my desire; I shall expect a blessing, and re<g ref="char:EOLhyphen"/>main,</p>
+            <closer>
+               <signed>His and the Churches in all publick and personall Offices, GRAC. FRANCKLIN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117543:4"/>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Master <hi>Browne</hi> and I came into the appoin<g ref="char:EOLhyphen"/>ted place of meeting; That which was (at first) proposed to his consideration, was, whe<g ref="char:EOLhyphen"/>ther he would own us so far, as to joyn with us in prayer, that an effectuall blessing might by Almighty God be added to the end of our meeting: which I declared to him (in my judgement) to be very usefull, in regard of the confluence of people there assem<g ref="char:EOLhyphen"/>bled, whose end (in the judgement of charity) was edi<g ref="char:EOLhyphen"/>fication, as it concerned us both to judge. This being al<g ref="char:EOLhyphen"/>together refused by Master <hi>Browne,</hi> I desired him then to put himself into a seat at such a distance, that either of us might be able to deliver his judgement so audibly, that all the people might so hear, and so distinctly, that none might lose the end of his or her pains and travell. This being (after a while) at<g ref="char:EOLhyphen"/>tained, Master <hi>Brian</hi> (a neighbour of ours) bending (as I conceived) his discourse towards me, began our Conference thus.</p>
+            <p>
+               <hi>Sir, You are a man that by your doctrine and practice doe al<g ref="char:EOLhyphen"/>low and approve of the Baptisme of Infants; and for our parts, we know that you have no rule nor example for it in all the Word of God; and therefore what shall we esteem it but will-worship?</hi> Wherein, though he begg'd the question at first, as all may judge; yet knowing that Master <hi>Browne</hi> was the man ap<g ref="char:EOLhyphen"/>pointed
+<pb n="2" facs="tcp:117543:5"/> to mannage the Conference, I returned no answer to him; but turning to M. <hi>Brown,</hi> asked him thus:</p>
+            <sp>
+               <speaker>M. <hi>Fr.</hi>
+               </speaker>
+               <p>Sir, you hear what we are accused of; 1. That we have no rule nor example for the baptism of Infants. 2. That in case we have not, then such a Baptism as that, is to be lookt upon as will worship. Is it your pleasure that I shall answer to this charge, &amp; lay the foundation of our discourse upon those heads?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>M.</hi> Brown.</speaker>
+               <p>
+                  <hi>Yea.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. <hi>Fran.</hi>
+               </speaker>
+               <p>Sir, will you be pleased to give mee that liberty that Christ took with those that came to oppose him, <hi>viz.</hi> to answer a question by asking a question?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>M.</hi> Browne.</speaker>
+               <p>
+                  <hi>Yea.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. <hi>Fr.</hi>
+               </speaker>
+               <p>Then I demand you a question: and such a one as is of some validity and force to discover the weaknesse of the charge that is given in against us, and the crime that we are accused of. It is this: Where is your rule or example for the baptism of those that are grown up, whose parents (one or both) were Christians; as all, or the most part of ours in this Nation have been? Wee all agree that Baptism is a standing Ordinance of Jesus Christ, and that it ought not to be turned out of the Church. You say, wee have no rule nor example: we say the like by you; that is, for such as have been (as we have been) born of Christian Parents. Shew such a rule or example, I do here engage my self before the people to turn Anabaptist, give you the cause, &amp; never speak a word for the baptism of In<g ref="char:EOLhyphen"/>fants <note place="margin">Reader, What shall we think of those that chide us for want of a rule or example, and have none themselves? <hi>Turpe est Docto<g ref="char:EOLhyphen"/>ri, cum culpa re<g ref="char:EOLhyphen"/>da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>guit ipsum.</hi>
+                  </note> more. But if you cannot, I desire you then, that you wil ne<g ref="char:EOLhyphen"/>ver accuse us more of wil-worship, nor condemn our practice for want of a rule or example. For if we have none (as shall betryed in due time) yet wee are sure wee are in as good a con<g ref="char:EOLhyphen"/>dition as you, that are able to produce none. Produce it (I say); and if you can, I assure you again I will give you the cause.</p>
+               <p>And now, good Captain, give me leave to mind you of this by the way, that if <hi>Francklin</hi> (it is your own phrase <hi>pa.</hi> 12.) were guilty of such grosse errours and absurdities at the Conference, as you are pleased to make the world believe; this (in proba<g ref="char:EOLhyphen"/>bility) was lookt upon by you as one of them: and give mee leave to mind you a little more, how ever you value it, I sup<g ref="char:EOLhyphen"/>pose
+<pb n="3" facs="tcp:117543:5"/> it such a Gordian knot, that you will never be able to untie. I know not what you intend to do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the sword, that is, by a sword of steel: but I shall much bewail my weak<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sse if ever you are able to cut it in sunder by the sword of the Spi<g ref="char:EOLhyphen"/>rit, the blessed Word of God. If you do, I have promised you the cause. But to return to the Conference.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr.</hi> Browne.</speaker>
+               <p>
+                  <hi>Give me leave to take the same liberty to ask you another question: It is this; Whether you, looking upon your self as a Minister of Jesus Christ, would refuse to baptise a Be<g ref="char:EOLhyphen"/>leever if it were required of you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Fr.</hi>
+               </speaker>
+               <p>This is besides our question in hand. I know no man that denies Baptism to believers, if not baptized before in their infancie: but our question is, Whether such Belie<g ref="char:EOLhyphen"/>vers ought to be baptized as are in our Kingdom, who have been born of Christian parents? or whether Baptism be<g ref="char:EOLhyphen"/>longs to them in their infancy, or not till they be grown up?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Browne.</speaker>
+               <p>
+                  <hi>The Word speaks, that none are to be baptised but such as are grown up, and capable of teaching before it, as</hi> Mat. 28. 19. <hi>It speaks of such as were made disciples by instructi<g ref="char:EOLhyphen"/>on before.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Fr.</hi>
+               </speaker>
+               <p>Sir, It was never denyed by any of us (that I know) but always granted, that the Jews (who were under a new administration,) and Pagans (that never came up to a visible Profession of Jesus Christ before) ought to be taught first, and brought to a visible profession first, and baptized next. You know it by our practice of old with the Indians: If a Boy or a Girle <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e brought into this Nation out of Virgi<g ref="char:EOLhyphen"/>nia, or any other heathen Nation, wee approve that he ought to be taught first, and baptized next. But what is this to prove, that such as our infants that have been born of Christi<g ref="char:EOLhyphen"/>an parents ought to be kept back from baptism till then? or that such as they ought to be taught before they are baptized? Shew such a rule, or such an example, I tell you again, I will give you the cause. It is one thing to produce a rule or ex<g ref="char:EOLhyphen"/>ample for the baptism of a Beleever, and another for such a one
+<pb n="4" facs="tcp:117543:6"/> as hath been born of a Christian. Produce it if you can. Wee are Christians, and have been born of Christians, and wee have no reason to be turned out of our birth-priviledge; you may part with yours, if you please.</p>
+               <p>Here let me inform the Reader, that Master <hi>Brown</hi> seemed to mee to be at a stand; yet exprest himself in a multitude of words: But hee that knows all, knows that (though I lent him a most attentive ear) it was beyond mee to make sense of what he spake; and (as I think) beyond any man else. Inso<g ref="char:EOLhyphen"/>much, that I not onely declared in publick that I understood not what he meant, but also openly desired that if there were any else there that understood him better, hee would do him and me that favour, as to speak his minde out, that so I might the better know what to answer to. And truly (if the Cap<g ref="char:EOLhyphen"/>tain were there, as it seems he was) he might have done well to have holp his Friend and his cause, being both (in my judge<g ref="char:EOLhyphen"/>ment) in a low and sad state, and as good as lost.</p>
+               <p>And when no man undertook to explain him (after a brief recaptiulation of what was spoken to the people) I proceeded farther in the Conference, thus:</p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>Sir, you see now that we are (at least) upon even ground. You say, we have no rule nor example for the bap<g ref="char:EOLhyphen"/>tism of Infants: We say, and have proved, that you have no rule nor example for the baptism of those that be grown up, that is, such as wee of this Nation are, who have been born of Christian parents. Wee both agree that the Ordinance of Bap<g ref="char:EOLhyphen"/>tism ought not to be turned out of the Church. What will you say now, if I produce an example, and a plain example for the baptism of Infants? I hope you will say then that wee are gotten a good step beyond you.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Browne.</speaker>
+               <p>
+                  <hi>I pray shew it in the Scripture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>I desire you then (good people) that have Bibles, and came hither for your profit, that you will be pleased to turn to the Scripture in <hi>Exod.</hi> 12. 37. You see there the Text af<g ref="char:EOLhyphen"/>firmeth that there came out of the land of Egypt 600000 on foor, men besides children. Then turning to Mr <hi>Browne,</hi> I de<g ref="char:EOLhyphen"/>manded,
+<pb n="5" facs="tcp:117543:6"/> Are the children particularly exprest in the Text or no? that is, children besides men?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>Yea.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>Sir, I pray speak it out to the people; Doth the Text speak of children besides men?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>Yea.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>I pray then turn to the place in 1 <hi>Cor.</hi> 10. 1, 2. where the Scripture affirms, that all our Fathers were under the cloud, and in the sea, and were all, that is, men, women, children, and all baptized unto <hi>Moses.</hi> Now Sir, (said I) I hope you have your desire, that is, an expresse example for the baptism of children. And I added this: Good people take no<g ref="char:EOLhyphen"/>tice of it; If Mr <hi>Brown,</hi> or any man else can give us such an example for the baptism of men or beleevers grown up; that is, such as we of this Nation are, who have been born of Chri<g ref="char:EOLhyphen"/>stian parents, I will once more engage my self to turn Ana<g ref="char:EOLhyphen"/>baptist, and give them the cause.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>It was not the same Baptism with ours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>Sir, I pray speak your mind out: What do you mean when you say, It was not the same Baptism? Do you mean, that it was not the same in substance; or that it was not the same in the manner of administration?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Brown.</speaker>
+               <p>
+                  <hi>It was not the same neither in the one, nor in the other.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>Then I will speak to both apart. And first, whereas you say, that it was not the same in the manner of ad<g ref="char:EOLhyphen"/>ministration; let it be granted: yet it is nothing to our que<g ref="char:EOLhyphen"/>stion. For our question is not about the manner; <hi>viz.</hi> in what manner children were baptized: but our question was about the matter, <hi>viz.</hi> whether they were baptized, or whether there were such an example or no? It is sufficient for us to prove the matter, and that they were actually baptized: and so much is spoken fully out, and that in this Text.</p>
+               <p>Touching the second point, or quere; that is, whether it were the same Baptism with ours in substance, is easily pro<g ref="char:EOLhyphen"/>ved. If you ask the Apostle, hee tels you, that there is but one
+<pb n="6" facs="tcp:117543:7"/> Lord, one Faith, one Baptism; so that their Baptism under the cloud and in the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, <hi>John</hi>'s Baptism, the Apostles Baptism, and ours, is all but one Baptism; and (for my part) I know no difference between <hi>one</hi> and the <hi>same:</hi> if all these kinds of ad<g ref="char:EOLhyphen"/>ministration be but one Baptism in the substance, then it must ne<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s be the same.</p>
+               <p>And that I might give the people a more full satisfaction, I gave them also the argument of the Text, which was this; The Apostle (being sensible that the <hi>Corinthians</hi> doted much about carnalities, and about their outward priviledges, in the participation of both Sacraments, of Baptism, and the Lords Supper; and thought that (in regard of them) they might be in favour of God sufficiently, notwithstanding all their idola<g ref="char:EOLhyphen"/>trous acts and entercourse at idolatrous feasts) endeavoured to take them off from those weak and groundlesse perswasions, by laying before them the sad example of the Israelites. As much as if hee should have said; Never dote so much up<g ref="char:EOLhyphen"/>on your outward Baptism, though you and your children have been partakers of it; for the Israelites and their children (in the cloud, and in the sea) were partakers of that aswell as you: nor yet upon your participation of the Sacrament of the Lords Supper; for they (as well as you) ate the same spi<g ref="char:EOLhyphen"/>rituall meat, and drank of the same spirituall drink; yet as these priviledges, these speciall priviledges were insuffici<g ref="char:EOLhyphen"/>ent to shelter them out in their murmurings and idolatrie; so they will prove as insufficient to shelter you. Their carcasses fell in the wildernesse, the Lord was provoked to swear against them; and so hee may against you, unlesse you amend. Here Master <hi>Browne</hi> was at a second stand, and (before all the people) granted that it was the same Baptism with ours; and in that, I appeal to all the world whether he yeelded not the cause.</p>
+               <p>And now (good Reader) give me leave to add this, that the fore-rehearsed example was urged so home, that if the Captain were not satisfied, yet many of the Souldiers were, who were there present, and afterwards (meeting them at <hi>Warmister</hi> ac<g ref="char:EOLhyphen"/>cidentally)
+<pb n="7" facs="tcp:117543:7"/> declared as much, and of their own accord; it be<g ref="char:EOLhyphen"/>ing beyond my knowledge whether they were there or no, till they related a part of the discourse. And I have good cause to question whether the Captain himself were not satisfied, at least at the present. He returned no answer then that I know, or can learn by any man else. And his Reply in his Book <hi>pag.</hi> 4 is (in my apprehension) so childish, that it is not worth the answer. He knows that Sacraments (whether standing, or not standing Ordinances) are appointed for the use and edification of men, and not of beasts. Hee knows that it is possible for a beast to be casually dipt in the same water, and perhaps at the same time, when some of them (after their way of baptising) are dipt or washt; and yet I hope, and assure my self that hee will not affirm the beast to be baptised. And it is possible for a brute creature casually to taste a bit of that bread that is set a<g ref="char:EOLhyphen"/>part to a Sacramentall use; and to have the same touch and and taste (in the outward element) as a beleever hath, yet not receive the Sacrament as a beleever doth. Is this an answer to my example? And is it not much unlike a rationall man to vent such a thing as this? and in print? <hi>Spectatum admissi &amp;c.</hi>
+               </p>
+               <p>As for that which the Captain speaks <hi>pag.</hi> 3. about types, and the substance of them, its nothing to me; we had not a word in all the Conference (that I remember) about types, or that the Sacraments of the Jews, or that of Baptism, were a type of ours. All that I cited the Scripture for was this, that there was a manifest example of Infants Baptism. And if I had, the Text (I suppose) would have born me out: the Apostle in two seve<g ref="char:EOLhyphen"/>rall verses calls them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>types,</hi> and so you might have seen it <note place="margin">1 Cor. 10. v. 6. and v. 11.</note> rendred in the margin. And (to use your own <note n="*" place="margin">
+                     <hi>Pag.</hi> 3.</note> phrase) as le<g ref="char:EOLhyphen"/>gally dark as these types are, the Apostle affirms <hi>v.</hi> 11. that they <hi>were written for our admonition, upon whom the ends of the world were come;</hi> that is, they remain usefull even in Gospel times, notwithstanding all their and our Gospel light.</p>
+               <p>And whereas you intimate (in the same <hi>page)</hi> that we leave the substance and follow the type. Let me tel you, that there is a practicall and a speculative following the type. If you know
+<pb n="8" facs="tcp:117543:8"/> any of us that practically follow the type, <hi>viz.</hi> that refuse to baptise their children, unlesse they may be baptised unto <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> in the cloud, and in the sea; you may doe well to name them, and to pronounce against them your sentence of Anti<g ref="char:EOLhyphen"/>christianisme. But as for a speculative following of the type, that is, to help on to a more full manifestation of the truth, it is a thing lawfull, and alwayes used (as well in Metaphori<g ref="char:EOLhyphen"/>call, as Historicall types) even by Christ and his Apostles, and that frequently too in the Scripture; and I hope that neither of these shall come under your censure of Antichristianisme, or that they walk in legall darknesse. See the historicall type of the brasen Serpent urged by Christ himself, <hi>John</hi> 3. 14. and that of <hi>Jonah, Matth.</hi> 12. 39. and that in the Text now in que<g ref="char:EOLhyphen"/>stion, urged by the Apostle; wherein (as I have already de<g ref="char:EOLhyphen"/>clared) he sets forth like priviledges, and like judgements. And that metaphoricall type of the unleavened bread, <hi>Exod.</hi> 12. 8. urged by the Apostle 1 <hi>Cor.</hi> 5. 7. wherein the members of a constituted Church, or a Church in order, are resembled to a lump of dough, and the corrupt part to leaven in the dough. This cannot be called walking in darknesse, when we put to<g ref="char:EOLhyphen"/>gether the greater and the lesser light, the truth and the type to give out their full lustre both at once. When the truth is come, it open, the mouth of the type, and both put together, speak out evangelicall light to the full.</p>
+               <p>But you say, <hi>pag.</hi> 3. latter end, that the naturall seed of the typicall Church of the Jews was accounted for the seed: and <hi>pag.</hi> 4. <hi>lin.</hi> 1. that under the Gospel there is no seed but that of faith.</p>
+               <p>Sir, If you had remembred that Scripture, <hi>Rom.</hi> 9. 7, 8. <hi>(Nei<g ref="char:EOLhyphen"/>ther because they are the seed of Abraham are they all children: but in Isaac shall thy seed be called. That is, They which are the chil<g ref="char:EOLhyphen"/>dren of the flesh, these are not the children of God: but the chil<g ref="char:EOLhyphen"/>dren of the promise are counted for the seed;)</hi> you would never have taught us that doctrine, That the naturall seed, that is, those that were carnally and in a course of nature descended from <hi>Abraham,</hi> were accounted for the seed, it being so flatly
+<pb n="9" facs="tcp:117543:8"/> repugnant to that Scripture Text. And it is true, that under the Gospel (and you might have added under the Law too) there is no seed, that is, seed mysticall, but that of faith, if grown up. But seeing neither they nor wee knew who were or are in a mysticall state, therefore both they and wee ought to dispense visible Ordinances to such as are in visible Church state, as Infants are, as I shall prove in its proper place.</p>
+               <p>I added <hi>(If grown up)</hi> for I suppose that elected Infants are to be lookt upon in mysticall state, as mysticall members of Christ, though they have not actuall faith. I explain it thus: As there was a power in <hi>Adam</hi> to make us sinners before wee did actually sin; so there is a power in Christ to make any such elect righteous before they do actually beleeve. Therefore the elect now are said to be dead, buried, crucified, planted with Christ, <hi>Rom.</hi> 6. 3. 4. 5, <hi>&amp;c.</hi> even long before they were born, or capable of actuall faith. They have a virtuall righte<g ref="char:EOLhyphen"/>ousnesse in Christ the Head, though it be not actually till they believe.</p>
+               <p>There be two things more that the Captain affirms <hi>pag.</hi> 4. 1. That wee have no precept nor president for the baptism of Infants. 2. That their baptism doth them no good. In the first of these the Captain doth but <hi>petere principia,</hi> beg the que<g ref="char:EOLhyphen"/>stion. It was answered before, and in his hearing, if he were at the Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>course. As for the second; Baptism is as the Word preached, not efficaciously usefull unlesse conjoyned with the Spirit; but if the Spirit be conjoyned, then Baptism is both usefull, and efficaciously usefull: and therefore it is sometimes called buriall with Christ <hi>Rom.</hi> 6. 4. Baptism into Christ, <hi>Gal.</hi> 3. 27. and the washing of regeneration, <hi>Tit.</hi> 3. 5. And if so, then Baptism doth them good. And it is usefull, yea, though the Spirit be not conjoyned with the outward signe, and be<g ref="char:EOLhyphen"/>fore they come to actuall faith; <hi>viz.</hi> to put them in minde of originall sin, and that corruption of nature wherein they were born. For if there be need of outward and inward washing (as was proved before) even as soon as they are born, it argues that they were in a state of inward and spiritual defilement before.</p>
+               <pb n="10" facs="tcp:117543:9"/>
+               <p>As for his arguments against the usefulnesse of Infants bap<g ref="char:EOLhyphen"/>tism drawn from Gods decree; I answer, 1. It is much like, and even the same with the old desperate tenent of a carelesse Atheist about salvation and damnation, who usually puts no fault to himself and his neglect of the means; but lays the whole burden upon the Decree. And let me tell him this, that wee usually distinguish between prescience and predestination: the one having relation to the persons, the other to the means. Now if baptism be one means (in the hand of God) by which wee obtain the grace of regeneration and the pardon of sin, as was before proved <hi>Rom.</hi> 6. 4. <hi>Gal.</hi> 3. 27. <hi>Tit.</hi> 3. 5. I would not advise the Captain either to despise it, or delay it, if it may be had, no not to an infant. 2. His argument is as strong against the good that comes by baptism to those that are of ripe yeers, if not in the decree, as hee was answered <hi>pag.</hi> 8. in his own book.</p>
+               <p>Thus (having discovered the emptinesse of the Captains ad<g ref="char:EOLhyphen"/>ditions to our Discourse) I return to the Conference again, and spake to the people thus:</p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>You see that (according to your desires) I have given you a plain and undenyable example for the baptism of Infants, and such a one as hath been confest by our adversaries to be the same in substance with ours; and though my strength be much impaired, and (as I told you before) I have 16 miles to ride this day; yet before I part with you, I will give you one argument by way of augmentation to the rest of the Dis<g ref="char:EOLhyphen"/>course, and for the justification of infants baptism. It is this: Hee that is in Scripture sense esteemed a Saint, hath right to baptism: But every Infant born of a Christian is in Scripture sense esteemed a Saint: and therefore hath right to Baptism, and ought to be baptised.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>To your Scripture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>Then you decline my argument.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>To your Scripture:</hi> so spoken the second time.</p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>Then (seeing you deline my argument) you shall have it; It is in 1 <hi>Cor.</hi> 7. 14. <hi>Else were your children unclean, but
+<pb n="11" facs="tcp:117543:9"/> now are they holy.</hi> You know that holinesse and saintship are equivalent terms. If the children are holy, then they are saints; that is, either by the internal or external gift of the holy Ghost; either of which gives a sufficient right to baptism, according to that Scripture, <hi>Act.</hi> 10. 47. <hi>Can any man forbid water to them that have received the holy Ghost as well as we?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>If holinesse be a sufficient ground for the baptism of Infants, then by the same reason the unbelieving Parent hath right to baptism; for the Scripture affirms him to be sanctified, that is, to be made holy: so that if he be made holy, he is holy, and so hath as good right to baptism as the child.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>There is great difference between that which is sanctified or made holy, and that which hath an actuall state of holinesse in it self; and so is this Scripture to be understood. The unbeleeving parent is said to be sanctified, that is, set apart to a holy use, and to a holy end; that is, for the begetting of such off-spring as might be in an actuall state of holinesse; and there<g ref="char:EOLhyphen"/>fore the children in the Text are said to be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>holy;</hi> that is, in actuall state of holinesse. I explain it thus; <hi>A</hi> thing may be said to be sanctified, that is, set apart to an holy use, that hath no actuall state of holinesse in it self; as the vessels of the Tem<g ref="char:EOLhyphen"/>ple; not that the gold, silver, or brasse was holy in it self; but onely set apart to a holy use, as before. Now the child is said to be holy, that is, possest with such an actuall state of holinesse which the child could not have enjoyed, unlesse one of his pa<g ref="char:EOLhyphen"/>rents had been a beleever. It was a birth-priviledge gained by a believing parent: It was some speciall benefit and priviledge (which the Text calls holinesse) that the child had by his Chri<g ref="char:EOLhyphen"/>stian birth, more then he could have had if both parents had been in the state of unbelief.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr</hi> Bro.</speaker>
+               <p>
+                  <hi>If that which I have spoken be not sufficient, the A<g ref="char:EOLhyphen"/>postle himself explains his own minde; hee tels us in the verses be<g ref="char:EOLhyphen"/>fore,</hi> To the rest speak I, not the Lord. <hi>So that the meaning of the text is this; that this judgement was given by the Apostle as he was in the condition of a private man, and as one that had the Spi<g ref="char:EOLhyphen"/>rit of God; but not given to the Church as immediately sent by the
+<pb n="12" facs="tcp:117543:10"/> Lord: In short, that it was not so authoritative as other Scrip<g ref="char:EOLhyphen"/>ture left upon record by the Apostle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Fr.</hi>
+               </speaker>
+               <p>You are the first man that ever I heard that adventu<g ref="char:EOLhyphen"/>red to deny the Scripture. You derogate from the Scripture, and endeavour to make us beleeve that there is something in Scrip<g ref="char:EOLhyphen"/>ture that is not authentick Text. But I shall easily discover the vanity of this evasion. As for example; when the Apostle af<g ref="char:EOLhyphen"/>firms (as <hi>v.</hi> 10.) <hi>I command, yet not I, but the Lord;</hi> his meaning is, not I by my Apostolick authority, but the Lord; that is, the Lord when he was alive on the earth, as you may see (good peo<g ref="char:EOLhyphen"/>ple) if you turn to that Scripture <hi>Mat.</hi> 5. 32. &amp; <hi>Mat.</hi> 19 9. where the Lord gave the same command when alive upon earth. A<g ref="char:EOLhyphen"/>gain, when the Apostle speaks (as <hi>v.</hi> 12.) <hi>To the rest speak I, not the Lord;</hi> his meaning is, not the Lord, that is, when he was up<g ref="char:EOLhyphen"/>on the earth; but I by my Apostolick authority; it being revea<g ref="char:EOLhyphen"/>led (as other Scripture was) from God, as I proved <hi>Gal.</hi> 1. 12. And that the vanity of this evasion might appear farther, I de<g ref="char:EOLhyphen"/>sired the people to observe the argument of the Chapter, which was this: The Church of <hi>Corinth</hi> being much unsatisfied in the uses of things indifferent, wrote to the Apostle for resolution, <hi>v.</hi> 1. <hi>Now concerning the things whereof you</hi> wrote <hi>to me:</hi> The Apostle was then in remote parts attending upon his publick trust. It seems the Church was at the care and cost to send a message (perhaps on purpose) with an Epistle for the satisfacti<g ref="char:EOLhyphen"/>on of their doubts and scruples, whereof this was one. I then demanded this of M. <hi>Brown:</hi> Sir, I beseech you speak your con<g ref="char:EOLhyphen"/>science out: Suppose you had been a member of that Church, one of them that had scrupled, and one of them that had been at the care and cost to write and send into remote parts, and to re<g ref="char:EOLhyphen"/>ceive satisfaction about your scruples, and that from God; would you have been pleased, or your conscience eased with the bare judgement of a private man, though gifted with the Spirit of God? Sir, speak your conscience out, Is it likely? I doubt not but your next neighbour might have given his judgement, his private judgment, &amp; perhaps as good as the Apostles (if that had been private) and cased you &amp; the Church of all that cost &amp; care,</p>
+            </sp>
+            <pb n="13" facs="tcp:117543:10"/>
+            <p> Upon this some of the company (and I think truely of his own side) exprest their dislike at this; &amp; he stood not to the justi<g ref="char:EOLhyphen"/>fication of it: and upon this I parted (as the Captain is pleased to term it) abruptly, if he alone may be my judge. You know the old rule, <hi>Frustra fit per plura, &amp;c.</hi> And whether I had not spent time enough to cleer up the point in controversie, to the full sa<g ref="char:EOLhyphen"/>tisfaction of those that had judgement to apprehend, and a mind to be satisfied, I leave it the conscience of those that heard it then, or shall read it now. And (besides my necessary travel that day, of which they were foreacquainted; and the tirednesse of my spirits (as hee that knows all knows) even to the faint<g ref="char:EOLhyphen"/>ing point) I would fain know of my adversaries, whether it be not high time for Lawyers to leave pleading at the Bar, when the Judge is turned from the Bench? or whether it be not high time to give up dispute, when the Scripture (the judge of our controversie) is denyed and despised?</p>
+            <p>Thus having ended the Conference, I return again to the Captain, and to his exposition of the forementioned Scrip<g ref="char:EOLhyphen"/>ture, 1 <hi>Cor.</hi> 7. 14. He tels us that the meaning of the Text is, That as all things are clean to the clean, so is the unchristian woman to the Christian man &amp;c. I answer, This is nothing to our que<g ref="char:EOLhyphen"/>stion: we are not in dispute about cleannesse or uncleannesse in the parents in point of cohabitation or matrimoniall commu<g ref="char:EOLhyphen"/>nion; but about the term <hi>holy,</hi> which is attributed in the Text to the children. But he adds, <hi>and that the children of them are not to be imputed unlawful or impure.</hi> To expresse his two ne<g ref="char:EOLhyphen"/>gatives under one affirmative, I suppose that his meaning is, that the children are to be <hi>imputed,</hi> or <hi>reputed</hi> lawful and pure; law<g ref="char:EOLhyphen"/>full, that is (as I understand him) lawfully begotten; and pure, that is, alluding to that Scripture, <hi>Tit.</hi> 1. 15. <hi>To the pure all things are pure;</hi> or to the clean (as he renders it) all things are clean. It may be read either way after the Greek.</p>
+            <p>To the first I answer, That the children had been lawfull, that is, lawfully begotten, if neither parent had been a believer. And therefore there must be some other priviledge, and above that, which the child is said to enjoy when one parent is in actuall covenant.</p>
+            <pb n="14" facs="tcp:117543:11"/>
+            <p> To the second I answer, that the children are clean accor<g ref="char:EOLhyphen"/>ding to that Scripture, and more then that; that is, clean and holy too. Look into the Text 1 <hi>Cor.</hi> 7. 14. and you shall finde 1. a supposition of the Apostles, that the children are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: 2. a positive assertion in the later clause, that they are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>holy.</hi> So that whatsoever cleannesse is intended in that Scrip<g ref="char:EOLhyphen"/>ture <hi>Tit.</hi> 1. 15. the children here have that and more, they are clean and holy too: the Scripture affords them two distinct terms in that one verse, which points out two distinct quali<g ref="char:EOLhyphen"/>fications; they are not onely clean as the creatures are, but al<g ref="char:EOLhyphen"/>so holy as the Saints (that is, those that are in Church state) are. The Captain adds; So that it is <hi>but imputative holinesse.</hi> That is, he doth <hi>but</hi> grant us all the cause: for if a child have but an imputative holinesse in Scripture sense, or imputative holinesse in the Churches esteem (though there be no inherent grace) that alone is sufficient to baptism: Else let all that be of under<g ref="char:EOLhyphen"/>standing judge, and let me forfeit all mine.</p>
+            <p>I have now ended with the Captain in his addition to our Conference. I desire him in the next place to give me leave to ask him a few queres about some othe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts of his Book, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is, so far as they concern me; the rest (and perhaps this too) be<g ref="char:EOLhyphen"/>ing already answered, and that in a large volume, as the Captain himself acknowledgeth in his Epist. to the Reader, yet despiseth; but whether justly or unjustly, he knows best: it is beyond me to censure a Tract unseen, yea, unheard of till I set my eys upon his Book. But leaving that till it appear what it is, I desire to be in<g ref="char:EOLhyphen"/>formed by the Captain, 1. Why he bestows the title of a <note n="*" place="margin">Titl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> page.</note>
+               <hi>Pres<g ref="char:EOLhyphen"/>byterian</hi> upon me? 2. Why he ads the term <hi>Nationall?</hi> Touch<g ref="char:EOLhyphen"/>ing the first, whether I am a Presbyterian or no, I can assure him that it is more th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n he knows, or (perhaps) then any man else yet: and if it should not prove so, the Reader (perhaps) may think that the Captain was something inconsiderate to adven<g ref="char:EOLhyphen"/>ture upon such a title, and in print. It is my desire and care to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arch out and know what either side can speak for it self out o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the word, and to give the truth of God its due; and when I have found it (if not already found) I trust that (by the help of
+<pb n="15" facs="tcp:117543:11"/> God) I shall be faithfull to it. Yet (though I conceive the title to be put upon mee in scorn) I am not afraid nor ashamed to communicate two things to himself and the world: 1. That I have small reason to despise the title of a Presbyter, so long as I finde the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> so often applyed to Ministers in the Scripture, and given to them as a name of office <hi>Tit.</hi> 1. 5. yea to the Apostle himself, tog<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther with other labourers in Gods harvest 1 <hi>Pet.</hi> 5. 1. 1 <hi>Tim.</hi> 4. 14. 2. That I honour and e<g ref="char:EOLhyphen"/>steem those whom he is pleased to <note n="*" place="margin">
+                  <hi>Pag.</hi> 26. <hi>lin.</hi> 3, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 5, <hi>&amp;c.</hi>
+               </note> deride and vilifie, even as much as my self, and more. And let me tell him, that if I were a souldier, as he seems to be, and of his judgement, so vented as in that page, I should think it would not be long ere the dreadfull hand of the great God would be out against me, even me, for de<g ref="char:EOLhyphen"/>spising those, yea those truly godly and spirituall knowing men, who have been subordinate instruments to breathe in so much grace and spirituall life into the dead hearts of many a soul in this Nation; and such as (time was) I believe himself hath high<g ref="char:EOLhyphen"/>ly prized for their works sake; though now (perhaps) he looks upon them (as upon some of us) under the notion of Antichri<g ref="char:EOLhyphen"/>stian; and why? because they dissent from him in judgement.</p>
+            <p>But (if I am a Presbyterian) why a <hi>Nationall Presbyterian?</hi> He seems to me to stumble at the threshold, at the very entry of his Book. All Presbyterians (that understand) even those that approve of a Church National, do yet look upon such a Church as much below their principles. They extend a Church as far as Baptism and Excommunication doth extend: that is, beyond a Church particular, beyond a Church Classicall or Provinciall, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beyond a Church Nationall: In short, they extend it as far as Jesus Christs Commission is extended. And it will not be a<g ref="char:EOLhyphen"/>misse for him to consider whether there be not a Church vi<g ref="char:EOLhyphen"/>sible as large as the acts and exercise of it is or can be extended. So that he may add another title in the next, and that in scorn too if he please; I hope it will never be laid to his charge at the last day.</p>
+            <p>There is but one thing more in all the Captains Book which is of concernment to me to answer to, that is, the point of <hi>Tythes.</hi>
+            </p>
+            <pb n="16" facs="tcp:117543:12"/>
+            <p>I take them, and (perhaps) he knows it. I will speak first to his title, then to his arguments against them, and the takers of them. He begins <hi>pag.</hi> 18. <hi>Thou Nationall Presbyterian Tythe<g ref="char:EOLhyphen"/>monger:</hi> The term that he bestows upon us is <hi>nomen multitu<g ref="char:EOLhyphen"/>dinis,</hi> a name or term that includes a multitude; yea all those now, together with all those in former ages that ever received tythes from 800 yeers down to this day. I suppose that most of them of old lived and died in that judgement; yet I think the Captain would have more charity then to pronounce them all damned, as they must be if (knowingly) they denyed Jesus Christ come in the flesh, <hi>Act.</hi> 4. 12. <hi>Heb.</hi> 10. 26. The title that he gives us is such a <hi>sesquipedale verbum,</hi> such a word of an ell and a half long, as I have not observed the like vented by the most impla<g ref="char:EOLhyphen"/>cable of all our adversaries: yet under that name all of us that receive tythes are called to the barre, and a sentence past upon us, even a se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tence which (with that which follows after it) sends us to, and binds us up under eternall death, yea and no mercy the while. When I read the first clause of the sentence, that we must work for our living, it supposed that they of his judgement had been something mercifull minded, and that they meant to let us live. But hee tels us in a line or two after, that we shall not live, and that we shall be thrust thorow. Let the will of God be done. It was so with the Prophets of old, <hi>Mat.</hi> 23▪ 34. and it was so with our Saviour Christ himself, <hi>Mat.</hi> 21. 38. <hi>Mar.</hi> 12. 7. <hi>This is the heir, come let us kill him, and the inhe<g ref="char:EOLhyphen"/>ritance shall be ours:</hi> that is, they supposed then they should have the sole rule of the Church, besides all the rest. But before I come to the Captains arguments against tythes, I desire to ask him, 1. Why he affirms that we must work for our livings; it is one thing what we may do, another what we must. He knows that an Apostle may, and a Minister may; but why <hi>must?</hi> He knows that Scripture 1 <hi>Cor.</hi> 9. 6. <hi>Have not we power to forbear working?</hi> He is a souldier, let him read the next verse; <hi>Who goes to warfare at his own cost?</hi> If hee think wages and arrears due to him, we think the same due to us, yea even in tythes; unlesse he help us to arguments of greater strength then he hath as yet pro<g ref="char:EOLhyphen"/>duced.</p>
+            <pb n="17" facs="tcp:117543:12"/>
+            <p> 2. Why doth he quarrel against Presbyterians only for taking tythes? His words are, <hi>Thou National Presbyterian Tythemon<g ref="char:EOLhyphen"/>ger:</hi> Why not <hi>Independent Tythemonger?</hi> Are there not ma<g ref="char:EOLhyphen"/>ny of those that are aswell content to feed upon those sweet morsels as any of the Presbyterians? You see the Captain hath taken upon him to act the part of a Judge; that is, one that should be in the stead of God to pronounce a sentence without partiality. He may do well therefore (in the next) to draw up a condemnation against those of his own side, as he hath already done on those whom he supposeth mine.</p>
+            <p>3. Suppose that we had no Gospel warrant for tythes (as some of that side are pleased to affirm, though that term be not exprest by him) I desire him, or some of them that are blest with personal estates, to produce their Gospel warrant to par<g ref="char:EOLhyphen"/>ticularize such and such houses and lands, and their right and interest in them: and by the same arguments that they shall commend to us for the justification of their own parts, wee shall be able to prove our tenth. Wee enjoy ours by the same constitution of State as they.</p>
+            <p>I come now to the Captains Arguments <hi>pag.</hi> 19 they are two. I need not speak to the first, but to the later, which (hee knows) is urged to confirm the former, without which the former sinks under his own burden. The force of his later ar<g ref="char:EOLhyphen"/>gument lies in his assumption: that is, <hi>That all those that do pay tythes, or receive tythes, do keep in use that which was fulfilled and ended by Christ in the Gospel.</hi> I answer, All this is but <hi>petitio principii:</hi> he begs the question, which should have been proved. Hee knows that tythes cannot be fulfilled and ended in Christ, unlesse he be able to prove tythes to be typicall or ceremoniall. And I shall much magnifie the Captains judgement, and enter<g ref="char:EOLhyphen"/>tain very low thoughts of my own, if ever he be able to prove that. But he (perhaps) conceives it to be soundly proved out of <hi>Heb.</hi> 7. 5, 12. In the fifth verse the Levits were commanded to take tythes. I answer, and so they were commanded to keep the morall law; Doth it therefore follow that the moral law, or the law of the ten Commandements is abolished? But
+<pb n="18" facs="tcp:117543:13"/> he will say (as <hi>v.</hi> 13.) that if there be a change of the priesthood, there is made a necessity of the change of the law. I answer, it is true; and he could hardly have pickt out such a Scripture, and so pertinent to overturn his own cause. I will frame the argument thus: If there be a change of the priesthood, there must of necessity be a change of the law, that is, in the Captains judgement, of the law of tythes: But there is no change of the priesthood: And therefore no change of the law, that is, of the law of tythes. I prove my assumption out of the verse before, where the Apostle affirms Christ to be a Priest after the order of <hi>Melchisedeck,</hi> and (in expresse words) not after the order of <hi>Aaron.</hi> Indeed, if <hi>Metchisedeck</hi>'s priesthood had been changed as <hi>Aaron</hi>'s was, the Captain might have had something to say; there must have been a change of the law, that is, of the law of tythes: But now his argument is vanished to nothing, his <hi>Go<g ref="char:EOLhyphen"/>liah</hi> against tythes lies in the dust. And for my part, I truely think that hee will as easily be able to pull the Sun out of his Sphere, as to prove tythes to be either typicall, ceremonious, ended in Christ, or unlawfull. Tythes (as all know) were paid to, and received by <hi>Melchisedeck, Gen.</hi> 14. 20. Christ is a priest for ever after the order of <hi>Melchisedeck, Heb.</hi> 7. 11. Ministers of the Gospel are in Christs stead, 2 <hi>Cor.</hi> 5. 20. yet ought not (as the Captain thinks) to receive tythes. He may do well to con<g ref="char:EOLhyphen"/>sider the point; and when it hath past the second concoction, he may (perhaps) be more wary; and we (perhaps) may ne<g ref="char:EOLhyphen"/>ver hear of such a sentence of condemnation more. I have no more to say for present, but to advise him and the Reader in the Apostles words: <hi>Consider what I have said, and the Lord give understanding in all things.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
